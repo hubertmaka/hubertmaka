@@ -1,7 +1,7 @@
 ## Hi there 👋
 **A few facts about me:**
 - I'm Hubert 😄
-- ICT student 🔭
+- 1-st grade ICT student 🔭
 
 <!--
 **norka02/norka02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
