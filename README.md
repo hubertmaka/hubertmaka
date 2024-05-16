@@ -3,6 +3,10 @@
 - I'm Hubert 😄
 - 1-st grade ICT student 🔭
 
+- 🔭 I’m currently looking for a job as Software Developer
+- 🌱 I’m currently learning ML, virtualization methods
+- 📫 How to reach me: https://hubertmaka.github.io
+- 😄 Python, Java, C, PLpgSQL, JavaScript 
 <!--
 **norka02/norka02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
